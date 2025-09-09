@@ -16,9 +16,9 @@ export default function Comments() {
   return (
     <Giscus
       id="comments"
-      repo="evavic44/victoreke.com"
+      repo="riazbd/riaznur-comments"
       repoId={giscusRepoId}
-      category="Announcements"
+      category="General"
       categoryId={giscusCategoryId}
       mapping="title"
       term="Welcome to @giscus/react component!"
